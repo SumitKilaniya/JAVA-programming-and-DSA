@@ -123,3 +123,15 @@ It motivates me to keep learning and sharing my progress.
 ---
 
 **Happy Coding! 🚀**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
