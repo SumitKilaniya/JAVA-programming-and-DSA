@@ -1,2 +1,125 @@
 # JAVA-programming-and-DSA
-JAVA programming practice and dsa problem solving
+# ☕ Java DSA & LeetCode Practice
+
+Welcome to my Java Data Structures and Algorithms (DSA) practice repository.
+
+This repository documents my journey of learning Java, strengthening problem-solving skills, and solving Data Structures & Algorithms (DSA) problems. It contains Java practice programs, coding exercises, and LeetCode solutions that I solve consistently as part of my interview preparation.
+
+---
+
+## 🎯 Objectives
+
+- Learn and master Java programming.
+- Build a strong foundation in Data Structures and Algorithms.
+- Improve analytical and problem-solving skills.
+- Prepare for coding interviews and online assessments.
+- Track my learning progress through consistent practice.
+
+---
+
+## 📁 Repository Structure
+
+```text
+📦 Java-DSA
+│
+├── Java Basics
+├── Object-Oriented Programming (OOP)
+├── Arrays
+├── Strings
+├── Recursion
+├── Searching Algorithms
+├── Sorting Algorithms
+├── Linked Lists
+├── Stacks
+├── Queues
+├── Hashing
+├── Trees
+├── Binary Search Trees
+├── Heaps
+├── Graphs
+├── Backtracking
+├── Greedy Algorithms
+├── Dynamic Programming
+├── Bit Manipulation
+├── Sliding Window
+├── Two Pointers
+├── Prefix Sum
+├── Math
+└── LeetCode Solutions
+```
+
+---
+
+## 📚 What's Included
+
+- ✅ Java programming practice
+- ✅ Data Structures implementation
+- ✅ Algorithm implementations
+- ✅ LeetCode solutions
+- ✅ Interview-focused coding questions
+- ✅ Optimized solutions with clean code
+- ✅ Time & Space Complexity analysis (where applicable)
+
+---
+
+## 💻 Language
+
+- **Java**
+
+---
+
+## 🧠 Problem Solving Strategy
+
+For every problem, I follow this approach:
+
+1. Understand the problem statement.
+2. Identify constraints and edge cases.
+3. Develop a brute-force solution.
+4. Optimize the solution.
+5. Analyze Time Complexity.
+6. Analyze Space Complexity.
+7. Write clean, readable, and efficient Java code.
+
+---
+
+## 📈 Current Focus
+
+- Java Fundamentals
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Algorithms
+- LeetCode Problem Solving
+- Coding Interview Preparation
+
+---
+
+## 🎯 Goals
+
+- Solve **500+ DSA problems**.
+- Strengthen logical thinking and problem-solving skills.
+- Become proficient in Java for technical interviews.
+- Build a strong foundation for Software Engineering and AI/ML.
+
+---
+
+## 🚀 Progress
+
+This repository is updated regularly as I continue learning, practicing, and solving new problems.
+
+---
+
+## 🤝 Contributions
+
+This repository is maintained as part of my personal learning journey. Suggestions, improvements, and discussions are always welcome.
+
+---
+
+## ⭐ Support
+
+If you find this repository useful or inspiring, consider giving it a **⭐ Star**.
+
+It motivates me to keep learning and sharing my progress.
+
+---
+
+**Happy Coding! 🚀**
