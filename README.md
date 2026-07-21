@@ -130,6 +130,7 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,4 +162,12 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0010-regular-expression-matching) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
