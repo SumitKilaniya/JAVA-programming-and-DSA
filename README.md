@@ -147,12 +147,18 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0010-regular-expression-matching) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
