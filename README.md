@@ -131,6 +131,7 @@ It motivates me to keep learning and sharing my progress.
 | ------- |
 | [0001-two-sum](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,8 +167,13 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
