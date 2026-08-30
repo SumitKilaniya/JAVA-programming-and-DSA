@@ -142,6 +142,7 @@ It motivates me to keep learning and sharing my progress.
 | ------- |
 | [0002-add-two-numbers](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +152,7 @@ It motivates me to keep learning and sharing my progress.
 | ------- |
 | [0002-add-two-numbers](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## String
 |  |
 | ------- |
