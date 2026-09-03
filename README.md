@@ -132,6 +132,7 @@ It motivates me to keep learning and sharing my progress.
 | [0001-two-sum](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0016-3sum-closest) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0002-add-two-numbers) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
