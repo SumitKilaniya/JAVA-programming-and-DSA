@@ -134,6 +134,7 @@ It motivates me to keep learning and sharing my progress.
 | [0016-3sum-closest](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,4 +209,8 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
