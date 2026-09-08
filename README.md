@@ -134,6 +134,7 @@ It motivates me to keep learning and sharing my progress.
 | [0016-3sum-closest](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0045-jump-game-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -180,6 +181,7 @@ It motivates me to keep learning and sharing my progress.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0045-jump-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +193,7 @@ It motivates me to keep learning and sharing my progress.
 | ------- |
 | [0011-container-with-most-water](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0045-jump-game-ii) |
 ## Sorting
 |  |
 | ------- |
