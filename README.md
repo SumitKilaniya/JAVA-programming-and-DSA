@@ -225,4 +225,8 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3903-smallest-stable-index-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
