@@ -229,4 +229,5 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0175-combine-two-tables) |
+| [0177-nth-highest-salary](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
