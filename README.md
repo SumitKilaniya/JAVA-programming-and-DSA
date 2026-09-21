@@ -240,4 +240,5 @@ It motivates me to keep learning and sharing my progress.
 | [0197-rising-temperature](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0511-game-play-analysis-i) |
+| [0584-find-customer-referee](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
