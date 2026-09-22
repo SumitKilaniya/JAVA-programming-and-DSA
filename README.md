@@ -248,4 +248,5 @@ It motivates me to keep learning and sharing my progress.
 | [0596-classes-with-at-least-5-students](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0601-human-traffic-of-stadium) |
 | [0607-sales-person](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
