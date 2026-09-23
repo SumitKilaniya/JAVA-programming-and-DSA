@@ -135,6 +135,7 @@ It motivates me to keep learning and sharing my progress.
 | [0033-search-in-rotated-sorted-array](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0053-maximum-subarray) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3903-smallest-stable-index-i) |
@@ -145,6 +146,7 @@ It motivates me to keep learning and sharing my progress.
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -172,6 +174,7 @@ It motivates me to keep learning and sharing my progress.
 | [0010-regular-expression-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,6 +203,7 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
 ## Divide and Conquer
 |  |
 | ------- |
