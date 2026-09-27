@@ -262,5 +262,6 @@ It motivates me to keep learning and sharing my progress.
 | [0619-biggest-single-number](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0619-biggest-single-number) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1211-queries-quality-and-percentage](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1211-queries-quality-and-percentage) |
+| [1280-students-and-examinations](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1280-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
