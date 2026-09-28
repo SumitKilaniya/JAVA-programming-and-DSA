@@ -265,4 +265,5 @@ It motivates me to keep learning and sharing my progress.
 | [1280-students-and-examinations](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1280-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
