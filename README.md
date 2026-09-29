@@ -263,6 +263,7 @@ It motivates me to keep learning and sharing my progress.
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1211-queries-quality-and-percentage](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1280-students-and-examinations) |
+| [1517-find-users-with-valid-e-mails](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1517-find-users-with-valid-e-mails) |
 | [1683-invalid-tweets](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
