@@ -173,6 +173,7 @@ It motivates me to keep learning and sharing my progress.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
@@ -270,4 +271,12 @@ It motivates me to keep learning and sharing my progress.
 | [1683-invalid-tweets](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
