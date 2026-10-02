@@ -174,6 +174,7 @@ It motivates me to keep learning and sharing my progress.
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
@@ -186,6 +187,7 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0053-maximum-subarray) |
@@ -280,4 +282,9 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
