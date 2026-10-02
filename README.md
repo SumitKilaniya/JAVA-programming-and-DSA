@@ -133,6 +133,7 @@ It motivates me to keep learning and sharing my progress.
 | [0011-container-with-most-water](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
@@ -145,6 +146,7 @@ It motivates me to keep learning and sharing my progress.
 | [0001-two-sum](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
 ## Linked List
@@ -287,4 +289,8 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
