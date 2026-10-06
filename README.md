@@ -183,6 +183,7 @@ It motivates me to keep learning and sharing my progress.
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,6 +213,7 @@ It motivates me to keep learning and sharing my progress.
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -290,6 +292,7 @@ It motivates me to keep learning and sharing my progress.
 | [0032-longest-valid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -298,6 +301,7 @@ It motivates me to keep learning and sharing my progress.
 | [0032-longest-valid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
