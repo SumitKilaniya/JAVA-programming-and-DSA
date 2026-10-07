@@ -181,6 +181,7 @@ It motivates me to keep learning and sharing my progress.
 | [0032-longest-valid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
+| [0301-remove-invalid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -306,8 +307,13 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0036-valid-sudoku) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
