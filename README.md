@@ -185,6 +185,7 @@ It motivates me to keep learning and sharing my progress.
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -294,6 +295,7 @@ It motivates me to keep learning and sharing my progress.
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -303,6 +305,7 @@ It motivates me to keep learning and sharing my progress.
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
