@@ -183,6 +183,7 @@ It motivates me to keep learning and sharing my progress.
 | [0032-longest-valid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
+| [0087-scramble-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0087-scramble-string) |
 | [0301-remove-invalid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0856-score-of-parentheses) |
@@ -205,6 +206,7 @@ It motivates me to keep learning and sharing my progress.
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0053-maximum-subarray) |
+| [0087-scramble-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0087-scramble-string) |
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
