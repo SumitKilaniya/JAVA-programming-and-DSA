@@ -150,6 +150,7 @@ It motivates me to keep learning and sharing my progress.
 | [0036-valid-sudoku](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
+| [1096-brace-expansion-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -187,6 +188,7 @@ It motivates me to keep learning and sharing my progress.
 | [0856-score-of-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
@@ -226,6 +228,7 @@ It motivates me to keep learning and sharing my progress.
 | ------- |
 | [0016-3sum-closest](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
+| [1096-brace-expansion-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1096-brace-expansion-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -301,6 +304,7 @@ It motivates me to keep learning and sharing my progress.
 | [0856-score-of-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
@@ -321,6 +325,7 @@ It motivates me to keep learning and sharing my progress.
 | ------- |
 | [0022-generate-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -330,4 +335,5 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
