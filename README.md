@@ -298,6 +298,7 @@ It motivates me to keep learning and sharing my progress.
 | [1321-restaurant-growth](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1341-movie-rating) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1517-find-users-with-valid-e-mails) |
 | [1683-invalid-tweets](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1729-find-followers-count) |
