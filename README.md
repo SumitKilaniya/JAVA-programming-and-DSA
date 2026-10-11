@@ -140,6 +140,7 @@ It motivates me to keep learning and sharing my progress.
 | [0053-maximum-subarray](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0053-maximum-subarray) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -345,4 +346,8 @@ It motivates me to keep learning and sharing my progress.
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1096-brace-expansion-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
