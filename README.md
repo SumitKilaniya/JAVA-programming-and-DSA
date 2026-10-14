@@ -316,6 +316,7 @@ It motivates me to keep learning and sharing my progress.
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1789-primary-department-for-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1873-calculate-special-bonus) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Stack
 |  |
 | ------- |
