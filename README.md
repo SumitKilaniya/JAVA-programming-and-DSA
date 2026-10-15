@@ -172,6 +172,7 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0089-gray-code) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
@@ -348,6 +349,7 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1096-brace-expansion-ii) |
 ## Matrix
@@ -367,6 +369,7 @@ It motivates me to keep learning and sharing my progress.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0089-gray-code) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Design
 |  |
