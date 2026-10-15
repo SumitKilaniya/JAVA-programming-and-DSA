@@ -143,6 +143,7 @@ It motivates me to keep learning and sharing my progress.
 | [2333-minimum-sum-of-squared-difference](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3903-smallest-stable-index-i) |
@@ -157,6 +158,7 @@ It motivates me to keep learning and sharing my progress.
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
 | [1096-brace-expansion-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1096-brace-expansion-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Linked List
 |  |
 | ------- |
@@ -374,4 +376,12 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0284-peeking-iterator) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
