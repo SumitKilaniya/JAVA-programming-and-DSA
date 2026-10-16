@@ -140,6 +140,7 @@ It motivates me to keep learning and sharing my progress.
 | [0051-n-queens](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0055-jump-game) |
 | [0284-peeking-iterator](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0284-peeking-iterator) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -224,6 +225,7 @@ It motivates me to keep learning and sharing my progress.
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0087-scramble-string) |
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -240,6 +242,7 @@ It motivates me to keep learning and sharing my progress.
 | [0011-container-with-most-water](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
