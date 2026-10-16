@@ -137,6 +137,7 @@ It motivates me to keep learning and sharing my progress.
 | [0041-first-missing-positive](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0053-maximum-subarray) |
 | [0284-peeking-iterator](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0284-peeking-iterator) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -355,6 +356,7 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0093-restore-ip-addresses) |
 | [0301-remove-invalid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0301-remove-invalid-parentheses) |
@@ -396,4 +398,8 @@ It motivates me to keep learning and sharing my progress.
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
