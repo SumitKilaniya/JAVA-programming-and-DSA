@@ -139,6 +139,7 @@ It motivates me to keep learning and sharing my progress.
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0054-spiral-matrix) |
 | [0284-peeking-iterator](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0284-peeking-iterator) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -366,6 +367,7 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0054-spiral-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Breadth-First Search
 |  |
@@ -404,4 +406,8 @@ It motivates me to keep learning and sharing my progress.
 | ------- |
 | [0051-n-queens](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0052-n-queens-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
