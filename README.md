@@ -175,6 +175,7 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0089-gray-code) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -185,6 +186,7 @@ It motivates me to keep learning and sharing my progress.
 | [0010-regular-expression-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
