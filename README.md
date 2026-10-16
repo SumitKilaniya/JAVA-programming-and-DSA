@@ -169,6 +169,7 @@ It motivates me to keep learning and sharing my progress.
 | [0023-merge-k-sorted-lists](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
