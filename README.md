@@ -141,6 +141,7 @@ It motivates me to keep learning and sharing my progress.
 | [0053-maximum-subarray](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0057-insert-interval) |
 | [0284-peeking-iterator](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0284-peeking-iterator) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
