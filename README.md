@@ -378,6 +378,7 @@ It motivates me to keep learning and sharing my progress.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0301-remove-invalid-parentheses](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
@@ -416,4 +417,12 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0054-spiral-matrix) |
+## Tree
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
