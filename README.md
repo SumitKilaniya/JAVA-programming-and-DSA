@@ -143,6 +143,7 @@ It motivates me to keep learning and sharing my progress.
 | [0055-jump-game](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0057-insert-interval) |
 | [0284-peeking-iterator](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0284-peeking-iterator) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -183,6 +184,7 @@ It motivates me to keep learning and sharing my progress.
 | [0002-add-two-numbers](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0089-gray-code) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
@@ -233,6 +235,7 @@ It motivates me to keep learning and sharing my progress.
 | [0087-scramble-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0097-interleaving-string) |
 | [0678-valid-parenthesis-string](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
@@ -269,6 +272,7 @@ It motivates me to keep learning and sharing my progress.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0053-maximum-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -424,8 +428,30 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
