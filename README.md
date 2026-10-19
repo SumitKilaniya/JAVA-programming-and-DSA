@@ -144,6 +144,7 @@ It motivates me to keep learning and sharing my progress.
 | [0057-insert-interval](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0057-insert-interval) |
 | [0284-peeking-iterator](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0284-peeking-iterator) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -264,6 +265,7 @@ It motivates me to keep learning and sharing my progress.
 | [0016-3sum-closest](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0049-group-anagrams) |
 | [1096-brace-expansion-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1096-brace-expansion-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -290,6 +292,7 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
