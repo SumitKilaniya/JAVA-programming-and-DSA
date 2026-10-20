@@ -154,6 +154,7 @@ It motivates me to keep learning and sharing my progress.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -188,6 +189,7 @@ It motivates me to keep learning and sharing my progress.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -269,6 +271,7 @@ It motivates me to keep learning and sharing my progress.
 | [2333-minimum-sum-of-squared-difference](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -396,6 +399,7 @@ It motivates me to keep learning and sharing my progress.
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/SumitKilaniya/JAVA-programming-and-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
